@@ -22,6 +22,7 @@ Find the case that you can do when you are infront of grape juice.
   1-2. You can not drink previous(i-1) grape juice and add the max value until (i-2) grape juice.  
 
 2. not drink it
+  
   The max value until previous one will be the answer until now.  
 
 Similar to the problem that I solved. However , there are few mistake...
