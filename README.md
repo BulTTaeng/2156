@@ -16,7 +16,9 @@ dynamic programming
 
 Find the case that you can do when you are infront of grape juice.
 1. Drink it
+  
   1-1. You can drink previous(i-1) grape juice and add the max value until (i-3) grape juice. This is because you cannot drink 3 grape juice straight.
+  
   1-2. You can not drink previous(i-1) grape juice and add the max value until (i-2) grape juice.  
 
 2. not drink it
